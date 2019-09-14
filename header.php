@@ -37,7 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--logo start-->
 <div class="brand">
     <a href="index.php" class="logo">
-        RF-Portal
+        STMS
     </a>
     <div class="sidebar-toggle-box">
         <div class="fa fa-bars"></div>
