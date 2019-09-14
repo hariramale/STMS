@@ -107,4 +107,6 @@
 
 	<!-- //calendar -->
 </body>
+
+<p> Test </p>
 </html>
